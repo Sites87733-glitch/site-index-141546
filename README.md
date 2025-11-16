@@ -1,2 +1,16 @@
-# site-index-141546
-Website: index.html
+# 🌐 موقع index.html
+
+تم إنشاء هذا الموقع تلقائياً عبر بوت Telegram.
+
+## 📄 معلومات الملف
+- **الاسم:** index.html
+- **النوع:** HTML
+- **التاريخ:** 2025-11-16 14:15:51
+
+## 🔗 الروابط
+- [عرض الموقع](https://Sites87733-glitch.github.io/site-index-141546/)
+- [المستودع](https://github.com/Sites87733-glitch/site-index-141546)
+- [الملف الأصلي](https://raw.githubusercontent.com/Sites87733-glitch/site-index-141546/main/index.html)
+
+## ⚡ تم الإنشاء بواسطة
+بوت Telegram المتقدم لإنشاء المواقع
